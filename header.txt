@@ -1,4 +1,5 @@
 Hello world
 some text
+Changes from <master>
 
 
