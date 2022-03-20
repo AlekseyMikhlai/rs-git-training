@@ -1,5 +1,6 @@
 Hello world
 some text
-Changes from <master>
+Changes from <master> - new changes!!!
+
 
 
