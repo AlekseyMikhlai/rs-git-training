@@ -1,3 +1,4 @@
 Hello world
 some text
+Changes from <master>
 Changes from <first> 
